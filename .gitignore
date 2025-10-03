@@ -1,4 +1,3 @@
-session.session
 session.session-journal
 *.pyc
 __pycache__/
